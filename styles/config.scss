@@ -1,0 +1,14 @@
+$max-width: 1400px;
+
+main {
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+@import "scss/grid";
+
+@import "scss/transitions";
+
+@import "scss/color";
+
+@import "scss/margin-bottom";
